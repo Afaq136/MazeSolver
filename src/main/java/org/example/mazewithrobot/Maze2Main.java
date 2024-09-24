@@ -11,7 +11,6 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.scene.control.Button;
 
-
 public class Maze2Main extends Application {
 
 
@@ -20,7 +19,6 @@ public class Maze2Main extends Application {
     private ImageView mazeView;
     private boolean isSolving = false;
     private static final int STEP_SIZE = 10;
-
 
     @Override
     public void start(Stage primaryStage) {
@@ -46,7 +44,7 @@ public class Maze2Main extends Application {
 
 
         VBox root = new VBox(10, mazePane, solveButton);
-        Scene scene = new Scene(root, mazeImage.getWidth(), mazeImage.getHeight() + 40);
+        Scene scene = new Scene(root, mazeImage.getWidth(), (mazeImage.getHeight() + 40) * 1.1);
 
 
         scene.setOnKeyPressed(event -> {

@@ -47,7 +47,7 @@ public class Car {
 
     private void initializeCarParts() {
         body = new Rectangle(x, y, width, height);
-        body.setFill(Color.DARKBLUE);
+        body.setFill(Color.PURPLE);
         roof = new Rectangle(x + 20 * SCALE, y - 20 * SCALE, 60 * SCALE, 20 * SCALE);
         roof.setFill(Color.BLUE);
         wheel1 = new Circle(x + 20 * SCALE, y + 40 * SCALE, 10 * SCALE);
