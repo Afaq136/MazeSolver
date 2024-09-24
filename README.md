@@ -10,6 +10,14 @@ The Maze with Robot project is a JavaFX application designed to simulate the nav
 - **Interactive UI**: Buttons to start solving the maze, providing an engaging user experience.
 - **Animation**: Smooth movement animations for both the robot and car as they navigate the mazes.
 
+
+
+https://github.com/user-attachments/assets/df860d17-8413-43bd-a933-64a8d9af25c9
+
+
+
+
+
 ## Technologies Used
 - **Java 22**: The programming language used for development.
 - **JavaFX**: A powerful framework for building rich client applications in Java, providing a modern UI.
