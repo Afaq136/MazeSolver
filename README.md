@@ -1,7 +1,7 @@
 # Maze with Robot
 
 ## Overview
-The Maze with Robot project is a JavaFX application designed to simulate the navigation of a robot and a car through various mazes. This project provides a visual representation of algorithmic navigation and includes interactive elements to engage users. The application demonstrates object-oriented programming principles, JavaFX UI design, and basic animation techniques.
+This project is a JavaFX-based application where a virtual robot solves any given maze. The application uses image recognition and pathfinding algorithms to guide the robot from a starting point to the maze's exit.
 
 ## Project Features
 - **Multiple Mazes**: Users can switch between three different maze configurations, each presenting unique challenges.
