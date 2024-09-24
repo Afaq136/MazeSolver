@@ -11,9 +11,13 @@ The Maze with Robot project is a JavaFX application designed to simulate the nav
 - **Animation**: Smooth movement animations for both the robot and car as they navigate the mazes.
 
 
+Maze1 
 
 https://github.com/user-attachments/assets/df860d17-8413-43bd-a933-64a8d9af25c9
 
+Maze2 
+
+https://github.com/user-attachments/assets/6b87e8a0-44f3-4da0-ad26-25b6ba13447b
 
 
 
